@@ -1,4 +1,4 @@
-# Hi ■ I'm Sahib Ahluwalia
+# Hello! 👋 I’m Sahib Ahluwalia 🚀
 ■ **3rd-Year Computer Science Student**, Toronto Metropolitan University (Dean’s
 List, 3.80 GPA)
 ■ **Financial Advisor @ Scotiabank** (Mar 2018 – Feb 2021)

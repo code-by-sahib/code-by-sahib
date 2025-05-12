@@ -1,25 +1,43 @@
-# Hello! 👋 I’m Sahib Ahluwalia 🚀
-🎓 **3rd-Year Computer Science Student** at Toronto Metropolitan University (Dean’s
-List 🏅 | 3.80 GPA)
-■ **Financial Advisor @ Scotiabank** (Mar 2018 – Feb 2021)
-- Automated financial workflows using Excel macros and CRM tools
-- Collaborated on agile system enhancements and managed sensitive client data
-under PIPEDA & AML regulations
-■ **Projects**
-- **RustyShield**: Command■line password strength evaluator in Rust (regex,
-colored output, real■time feedback)
-- **Uber System Simulation**: Java■based text simulation of ride■sharing &
-delivery (OOP, exception handling, file I/O)
-- **CalPal**: Python calorie calculator with meal plans & Matplotlib
-visualizations (user input handling, data plotting)
-■ **Technical Skills**
-- Languages: Rust • Java • Python • C • C++ • JavaScript • Bash • SQL
-- Libraries & Tools: regex • colored • Matplotlib • pandas • scikit■learn • Git
-• Cargo • JDK
-- Concepts: Data Structures • Algorithms • OOP • Software Development Lifecycle
-(Agile)
-■ **Interests**: Cybersecurity • Machine Learning • DevOps • Data Science • AI
-■ **Reach Me**
-- ✉■ sahib.ahluwalia@torontomu.ca
-- ■ [LinkedIn](https://www.linkedin.com/in/sahib-ahluwalia-7577742a5)
-- ■ [Portfolio & GitHub](https://github.com/code-by-sahib)
+# Hello! 👋 I’m **Sahib Ahluwalia** 🚀
+
+🎓 **3rd‑Year Computer Science Student** at Toronto Metropolitan University (Dean’s List 🏅 | 3.80 GPA)
+
+💼 **Former Financial Advisor @ Scotiabank** (Mar 2018 – Feb 2021)
+
+> Automated financial reporting and streamlined workflows with Excel macros 🤖
+> Collaborated on Agile-driven enhancements and ensured compliance with PIPEDA & AML regulations 🔒
+
+---
+
+## 🔭 Current Projects
+
+* 🛡️ **RustyShield**: Rust-based password strength evaluator featuring regex validation and colored CLI output
+* 🚗 **Uber System Simulation**: Java simulation of ride-sharing and delivery logistics on a 9×9 city grid 🌆
+* 🍏 **CalPal**: Python calorie calculator that generates meal plans and visualizes progress with Matplotlib 📈
+
+---
+
+## 🛠️ Technical Proficiencies
+
+* **Languages:** Rust 🦀 | Java ☕ | Python 🐍 | C/C++ ⚙️ | JavaScript 🌐 | Bash 🐚 | SQL 🗃️
+* **Tools & Libraries:** regex 🔍 | colored 🎨 | Matplotlib 📊 | pandas 🐼 | scikit-learn 🤖 | Git 🔧 | Cargo 🛠️ | JDK ☕
+* **Core Competencies:** Data Structures 📚 | Algorithms 🤔 | Object-Oriented Programming 🧱 | Agile SDLC 🏃‍♂️
+
+---
+
+## 🌱 Interests
+
+* Cybersecurity 🛡️
+* Machine Learning 🤖
+* DevOps & Cloud Computing ☁️
+* Data Science 📊
+* AI & Emerging Technologies 🤯
+
+---
+
+## 📫 Get in Touch
+
+📧 **Email:** [sahib.ahluwalia@torontomu.ca](mailto:sahib.ahluwalia@torontomu.ca)
+🔗 **LinkedIn:** [Sahib Ahluwalia](https://www.linkedin.com/in/sahib-ahluwalia-7577742a5)
+🐙 **GitHub:** [code-by-sahib](https://github.com/code-by-sahib)
+

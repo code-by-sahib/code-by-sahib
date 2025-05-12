@@ -1,6 +1,6 @@
 # Hello! 👋 I’m Sahib Ahluwalia 🚀
-■ **3rd-Year Computer Science Student**, Toronto Metropolitan University (Dean’s
-List, 3.80 GPA)
+🎓 **3rd-Year Computer Science Student** at Toronto Metropolitan University (Dean’s
+List 🏅 | 3.80 GPA)
 ■ **Financial Advisor @ Scotiabank** (Mar 2018 – Feb 2021)
 - Automated financial workflows using Excel macros and CRM tools
 - Collaborated on agile system enhancements and managed sensitive client data

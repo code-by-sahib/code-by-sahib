@@ -12,9 +12,9 @@
 
 ## 🛠️ Technical Proficiencies
 
-* **Languages:**  Java ☕ |  Python 🐍 |  C/C++ ⚙️ |  JavaScript 🌐 |  Bash 🐚 |  SQL 🗃️ |  Rust 🦀 |  Linux🐧 |  Unix 🖥️ 
-* **Tools & Libraries:** NumPy 🧮 | pandas 🐼 | Matplotlib 📊 | scikit-learn 🤖 | Git 🔧 | regex 🔍 | Docker 🛠️ | Seaborn 🌊
-* **Core Concepts:** Data Structures 📚 | Algorithms 🤔 | Object-Oriented Programming 🧱 | Agile SDLC 🏃‍♂️| CI/CD Pipelines 🔩
+* **Languages:**  Java ☕  |  Python 🐍  |  C/C++ ⚙️  |  JavaScript 🌐  |  Bash 🐚  |  SQL 🗃️  |  Rust 🦀  |  Linux🐧  |  Unix 🖥️ 
+* **Tools & Libraries:** NumPy 🧮  |  pandas 🐼  |  Matplotlib 📊  |  scikit-learn 🤖  |  Git 🔧  |  regex 🔍  |  Docker 🛠️  |  Seaborn 🌊
+* **Core Concepts:** Data Structures 📚  |  Algorithms 🤔  |  Object-Oriented Programming 🧱  |  Agile SDLC 🏃‍♂️ |  CI/CD Pipelines 🔩
 
 ---
 
